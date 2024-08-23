@@ -1,2 +1,3 @@
 nginx
 elasticsearch:7.12.1
+mobz/elasticsearch-head:5
